@@ -40,7 +40,15 @@ The project follows the **Medallion Architecture (Bronze, Silver, and Gold)** to
 
 ## Project Workflow
 
-Detailed implementation steps will be documented here.
+The project follows an end-to-end data engineering workflow:
+
+1. **Data Source:** CSV datasets are maintained in a GitHub repository.
+2. **Data Ingestion:** Azure Data Factory connects to GitHub and ingests datasets using dynamic pipelines and ForEach activities.
+3. **Data Storage:** Raw data is stored in Azure Data Lake Storage Gen2.
+4. **Data Transformation:** Azure Databricks and PySpark are used to clean, process, and transform the data.
+5. **Medallion Architecture:** Data is organized into Bronze, Silver, and Gold layers.
+6. **Data Querying:** Azure Synapse Analytics Serverless SQL Pool is used to query data through OPENROWSET, external tables, and SQL views.
+7. **Data Visualization:** Power BI connects to the processed data to create interactive dashboards and reports.
 
 ## Screenshots
 
