@@ -36,7 +36,7 @@ The project follows the **Medallion Architecture (Bronze, Silver, and Gold)** to
 
 ## Project Architecture
 
-Architecture diagram will be added here.
+![Azure Data Engineering Architecture](architecture/End-to-End Azure Data Engineering Architecture.png)
 
 ## Project Workflow
 
