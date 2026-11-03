@@ -23,3 +23,17 @@ The following ADF features were used in this project:
 ## Outcome
 
 Successfully implemented an automated and reusable data ingestion workflow using Azure Data Factory.
+
+## Screenshots
+
+### 1. Pipeline Overview
+![Pipeline Overview](../screenshots/data-factory/pipeline-overview.png)
+
+### 2. ForEach Activity
+![ForEach Activity](../screenshots/data-factory/foreach-activity.png)
+
+### 3. Pipeline Execution
+![Pipeline Execution](../screenshots/data-factory/pipeline-execution-success.png)
+
+### 4. Linked Services
+![Linked Services](../screenshots/data-factory/linked-services.png)
