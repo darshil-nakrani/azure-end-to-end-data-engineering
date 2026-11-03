@@ -26,3 +26,13 @@ The following activities were performed:
 ## Outcome
 
 Implemented data processing and transformation workflows using Azure Databricks and PySpark to prepare datasets for analytical use.
+
+## PySpark Notebook
+
+The complete PySpark implementation, including data cleaning, transformation logic, and processing steps, is available below.
+
+📓 [View Complete PySpark Notebook](notebooks/data-transformation.ipynb)
+
+## Screenshots
+
+Selected screenshots demonstrating the Databricks implementation and successful execution will be added here.
