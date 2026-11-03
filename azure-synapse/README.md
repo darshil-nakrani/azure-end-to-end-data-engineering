@@ -27,3 +27,17 @@ The following features were implemented:
 ## Outcome
 
 Successfully used Azure Synapse Analytics Serverless SQL Pool to query data stored in ADLS Gen2 through OPENROWSET, external tables, and SQL views.
+
+## Screenshots
+
+### 1. Synapse Workspace Overview
+![Synapse Workspace](../screenshots/synapse/workspace-overview.png)
+
+### 2. Serverless SQL Pool
+![Serverless SQL Pool](../screenshots/synapse/serverless-sql-pool.png)
+
+### 3. OPENROWSET Query
+![OPENROWSET Query](../screenshots/synapse/openrowset-query.png)
+
+### 4. External Tables
+![External Tables](../screenshots/synapse/external-tables.png)
