@@ -30,4 +30,8 @@ Developed an interactive Power BI dashboard to visualize and analyze processed d
 
 ## Dashboard Screenshots
 
-Dashboard screenshots will be added here.
+### 1. Complete Power BI Dashboard
+![Power BI Dashboard](../screenshots/power-bi/power-bi-dashboard.png)
+
+### 2. Dashboard Visualizations
+![Dashboard Visualizations](../screenshots/power-bi/dashboard-visualizations.png)
