@@ -36,3 +36,17 @@ The data lake is organized into three layers:
 ## Outcome
 
 Implemented a structured data lake using the Medallion Architecture to organize raw, cleaned, and analytics-ready datasets.
+
+## Screenshots
+
+### 1. Storage Account Overview
+![Storage Account Overview](../screenshots/storage/storage-account-overview.png)
+
+### 2. Bronze Layer
+![Bronze Layer](../screenshots/storage/bronze-layer.png)
+
+### 3. Silver Layer
+![Silver Layer](../screenshots/storage/silver-layer.png)
+
+### 4. Gold Layer
+![Gold Layer](../screenshots/storage/gold-layer.png)
