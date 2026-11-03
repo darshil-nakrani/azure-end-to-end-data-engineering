@@ -33,6 +33,6 @@ The complete PySpark implementation, including data cleaning, transformation log
 
 📓 [View Complete PySpark Notebook](notebooks/data-transformation.ipynb)
 
-## Screenshots
+## Processed Data
 
-Selected screenshots demonstrating the Databricks implementation and successful execution will be added here.
+The processed datasets are stored in the Silver and Gold layers of Azure Data Lake Storage Gen2. Refer to the [Silver Layer Screenshot](../screenshots/storage/silver-layer.png) to see the processed data stored in ADLS Gen2.
